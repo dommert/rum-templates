@@ -1,0 +1,41 @@
+.top-bar {
+    background: #fff !important;
+}
+
+.top-bar-section {
+    background: #fff;
+    color: black !important;
+}
+
+.top-bar-section ul li > a {
+    background: #ffffff !important;
+    color: black !important;
+}
+
+.contain-to-grid {
+    background-color: #fff;
+}
+
+.top-bar .name h1 a {
+    color: black !important;
+}
+
+.top-bar * {
+    color: black !important;
+}
+
+.toggle-topbar a {
+    color: black !important;
+}
+
+.top-bar .toggle-topbar.menu-icon a span::after {
+box-shadow: 0 0px 0 1px #000, 0 7px 0 1px #000, 0 14px 0 1px #000;
+}
+.top-bar .toggle-topbar.menu-icon a:hover span::after {
+box-shadow: 0 0px 0 1px #000, 0 7px 0 1px #000, 0 14px 0 1px #000;
+}
+
+.top-bar .title-area {
+    background-color: white !important;
+}
+ 
